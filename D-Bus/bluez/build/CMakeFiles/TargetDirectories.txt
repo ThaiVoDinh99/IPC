@@ -1,0 +1,3 @@
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/build/CMakeFiles/D-BusExample.dir
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/build/CMakeFiles/edit_cache.dir
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/build/CMakeFiles/rebuild_cache.dir

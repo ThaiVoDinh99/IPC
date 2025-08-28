@@ -1,0 +1,4 @@
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/nativedbus/build/CMakeFiles/client.dir
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/nativedbus/build/CMakeFiles/service.dir
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/nativedbus/build/CMakeFiles/edit_cache.dir
+/home/thaivodinh/Documents/WorkSpace/IPC/D-Bus/nativedbus/build/CMakeFiles/rebuild_cache.dir

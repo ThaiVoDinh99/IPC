@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/D-BusExample.dir/main.cpp.o" -o D-BusExample  /usr/lib/x86_64-linux-gnu/libsdbus-c++.so.1.4.0 

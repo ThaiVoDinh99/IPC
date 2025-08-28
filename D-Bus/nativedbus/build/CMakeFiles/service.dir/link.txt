@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/service.dir/service.cpp.o -o service  /usr/lib/x86_64-linux-gnu/libsdbus-c++.so.1.4.0 
